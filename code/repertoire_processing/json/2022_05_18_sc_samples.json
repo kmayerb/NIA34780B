@@ -1,0 +1,407 @@
+{
+    "15515E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15515E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15515E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/khojt0v4nq4x37t/15515E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15515_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15515_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15515E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15515E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/04escc4hf26bbeg/15515E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15515E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15515E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/wev7pry1p3mh3j5/15515E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15515E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15515E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/60t3c3idjghja1j/15515E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15525E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15525E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15525E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/qz6detckdcnf3za/15525E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15525_5_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15525_5_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15525E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15525E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/5d7cchyqb46zlfz/15525E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15525E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15525E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/z89falsg7kbsvik/15525E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15525E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15525E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/ok4jsyw65ydt0gg/15525E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15527E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15527E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15527E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/zmsjxyikb4ec4rk/15527E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15527_6_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15527_6_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15527E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15527E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/oqlj7gnao8zls1b/15527E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15527E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15527E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/yx9vstiauuv6if8/15527E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15527E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15527E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/it8djgw3ub1y7vu/15527E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15531E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15531E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15531E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/7awnj4theo0ptno/15531E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15531_6_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15531_6_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15531E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15531E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/jda4a7zxn4lo2zy/15531E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15531E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15531E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/itgsek3frz48256/15531E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15531E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15531E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/sg2esoucmbjmanb/15531E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15548E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15548E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15548E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/fcmz71ssk3ppck9/15548E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15548_7_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15548_7_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15548E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15548E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/uptbunkhumimp0y/15548E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15548E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15548E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/xf4h0tmt3svgmsv/15548E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15548E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15548E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/uuqr7xxwnlm1dtb/15548E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15577E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15577E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15577E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/c4o319d5zb5qllx/15577E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15577_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15577_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15577E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15577E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/97et6lcync34qtr/15577E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15577E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15577E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/snjc7lgwbc9oy0g/15577E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15577E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15577E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/cz8rhl8i0b9drf1/15577E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15581E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15581E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15581E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/2t531l5cdjcye0v/15581E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15581_9_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15581_9_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15581E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15581E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/3mw6xm6t14ntkn8/15581E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15581E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15581E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/tyieu2ol1e72yb4/15581E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15581E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15581E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/wu85v9i6p5403v7/15581E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15630E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15630E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15630E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/0fz49359sbqf1ww/15630E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15630_3_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15630_3_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15630E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15630E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/jybw4n1k092xgp3/15630E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15630E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15630E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/obt2e6tupmvs9oi/15630E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15630E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15630E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/6b0mdwu7ej7i89p/15630E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15655E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15655E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15655E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/9c4hcti0l39dy36/15655E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15655_3_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15655_3_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15655E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15655E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/3stdn3l4xz46jrm/15655E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15655E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15655E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/70hvoinoh5xjm3h/15655E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15655E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15655E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/5yuog7ddmmfkc6i/15655E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15669E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15669E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15669E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/3967fiyg8c58bew/15669E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15669_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15669_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15669E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15669E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/oyt3a5gazfuh6vc/15669E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15669E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15669E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/5f0nm696x6sy07i/15669E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15669E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15669E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/ur9zgw7p39g3d0e/15669E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15684E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15684E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15684E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/aflqn5flx32j1gk/15684E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15684_8_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15684_8_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15684E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15684E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/p8lulfvznn05h5j/15684E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15684E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15684E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/c8imuikbgbwyg52/15684E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15684E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15684E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/918k3z49w88mp91/15684E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15744E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15744E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15744E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/o9s02hkiymvhkzz/15744E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15744_3_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15744_3_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15744E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15744E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/b6yxmth34idhlf5/15744E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15744E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15744E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/x9w03vg6v3nf00n/15744E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15744E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15744E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/8lp17oni0myp42e/15744E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15754E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15754E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15754E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/5h59g1foowea0b4/15754E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15754_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15754_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15754E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15754E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/j1o38yp8bylf4sl/15754E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15754E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15754E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/hz5p35ca61o96fe/15754E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15754E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15754E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/7gw7si39a4gtjwu/15754E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15782E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15782E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15782E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/l7hixkxvyxlk7xs/15782E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15782_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15782_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15782E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15782E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/aadshpfaysrjbi7/15782E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15782E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15782E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/dcvaj5jvxk3ld9s/15782E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15782E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15782E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/bppng38p2mwp0c9/15782E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    },
+    "15836E03": {
+        "all_contig_annotations.csv": {
+            "filename": "15836E03_all_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15836E03_all_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/9el6uup8ld4rt3h/15836E03_all_contig_annotations.csv?dl=1"
+        },
+        "clones_file_adpt": {
+            "filename": "15836_4_TCRB.tsv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/covid_tcr_compression/15836_4_TCRB.tsv",
+            "url": "Not Available"
+        },
+        "filtered_contig_annotations.csv": {
+            "filename": "15836E03_filtered_contig_annotations.csv",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15836E03_filtered_contig_annotations.csv",
+            "url": "https://www.dropbox.com/s/q148kb40xryh2ih/15836E03_filtered_contig_annotations.csv?dl=1"
+        },
+        "raw_feature_bc_matrix.h5": {
+            "filename": "15836E03_raw_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15836E03_raw_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/mzemwe3tet2t6g0/15836E03_raw_feature_bc_matrix.h5?dl=1"
+        },
+        "sample_feature_bc_matrix.h5": {
+            "filename": "15836E03_sample_feature_bc_matrix.h5",
+            "filepath": "/fh/fast/gilbert_p/fg_data/koelle_covid/10X/15836E03_sample_feature_bc_matrix.h5",
+            "url": "https://www.dropbox.com/s/g02sk0080zkon49/15836E03_sample_feature_bc_matrix.h5?dl=1"
+        }
+    }
+}
